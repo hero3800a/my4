@@ -1,0 +1,45 @@
+body{
+  text-align:center;
+  background:linear-gradient;
+  background-repeat:no-repeat;
+}
+img{
+  border-radius:50%;
+  width:100px;
+}
+h1{
+  text-shadow:2px  2px ;
+ font-size:50px;
+  
+  
+}
+
+p{
+  font-size:20px;
+  color:#DC143C;
+  font-family:Monospace;
+}
+.menu{
+    list-style: none;
+    font-family:inherit;
+    float: right;
+    top: 10px;
+    right: 30px;
+     color: black;
+    cursor: pointer;
+}
+.links{
+    float: left;
+    color: aqua;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.links:hover{
+    background-color: red;
+    
+}
